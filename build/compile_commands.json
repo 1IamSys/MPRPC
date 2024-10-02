@@ -1,0 +1,68 @@
+[
+{
+  "directory": "/home/ss/MPRPC/build/src",
+  "command": "/usr/bin/c++  -I/home/ss/MPRPC/src/include -I/home/ss/MPRPC/example -g -o CMakeFiles/mprpc.dir/mprpcapplication.cc.o -c /home/ss/MPRPC/src/mprpcapplication.cc",
+  "file": "/home/ss/MPRPC/src/mprpcapplication.cc",
+  "output": "src/CMakeFiles/mprpc.dir/mprpcapplication.cc.o"
+},
+{
+  "directory": "/home/ss/MPRPC/build/src",
+  "command": "/usr/bin/c++  -I/home/ss/MPRPC/src/include -I/home/ss/MPRPC/example -g -o CMakeFiles/mprpc.dir/mprpcconfig.cc.o -c /home/ss/MPRPC/src/mprpcconfig.cc",
+  "file": "/home/ss/MPRPC/src/mprpcconfig.cc",
+  "output": "src/CMakeFiles/mprpc.dir/mprpcconfig.cc.o"
+},
+{
+  "directory": "/home/ss/MPRPC/build/src",
+  "command": "/usr/bin/c++  -I/home/ss/MPRPC/src/include -I/home/ss/MPRPC/example -g -o CMakeFiles/mprpc.dir/rpcheader.pb.cc.o -c /home/ss/MPRPC/src/rpcheader.pb.cc",
+  "file": "/home/ss/MPRPC/src/rpcheader.pb.cc",
+  "output": "src/CMakeFiles/mprpc.dir/rpcheader.pb.cc.o"
+},
+{
+  "directory": "/home/ss/MPRPC/build/src",
+  "command": "/usr/bin/c++  -I/home/ss/MPRPC/src/include -I/home/ss/MPRPC/example -g -o CMakeFiles/mprpc.dir/rpcprovider.cc.o -c /home/ss/MPRPC/src/rpcprovider.cc",
+  "file": "/home/ss/MPRPC/src/rpcprovider.cc",
+  "output": "src/CMakeFiles/mprpc.dir/rpcprovider.cc.o"
+},
+{
+  "directory": "/home/ss/MPRPC/build/src",
+  "command": "/usr/bin/c++  -I/home/ss/MPRPC/src/include -I/home/ss/MPRPC/example -g -o CMakeFiles/mprpc.dir/mprpcchannel.cc.o -c /home/ss/MPRPC/src/mprpcchannel.cc",
+  "file": "/home/ss/MPRPC/src/mprpcchannel.cc",
+  "output": "src/CMakeFiles/mprpc.dir/mprpcchannel.cc.o"
+},
+{
+  "directory": "/home/ss/MPRPC/build/src",
+  "command": "/usr/bin/c++  -I/home/ss/MPRPC/src/include -I/home/ss/MPRPC/example -g -o CMakeFiles/mprpc.dir/mprpccontroller.cc.o -c /home/ss/MPRPC/src/mprpccontroller.cc",
+  "file": "/home/ss/MPRPC/src/mprpccontroller.cc",
+  "output": "src/CMakeFiles/mprpc.dir/mprpccontroller.cc.o"
+},
+{
+  "directory": "/home/ss/MPRPC/build/src",
+  "command": "/usr/bin/c++  -I/home/ss/MPRPC/src/include -I/home/ss/MPRPC/example -g -o CMakeFiles/mprpc.dir/logger.cc.o -c /home/ss/MPRPC/src/logger.cc",
+  "file": "/home/ss/MPRPC/src/logger.cc",
+  "output": "src/CMakeFiles/mprpc.dir/logger.cc.o"
+},
+{
+  "directory": "/home/ss/MPRPC/build/example/callee",
+  "command": "/usr/bin/c++  -I/home/ss/MPRPC/src/include -I/home/ss/MPRPC/example -g -o CMakeFiles/provider.dir/friendservice.cc.o -c /home/ss/MPRPC/example/callee/friendservice.cc",
+  "file": "/home/ss/MPRPC/example/callee/friendservice.cc",
+  "output": "example/callee/CMakeFiles/provider.dir/friendservice.cc.o"
+},
+{
+  "directory": "/home/ss/MPRPC/build/example/callee",
+  "command": "/usr/bin/c++  -I/home/ss/MPRPC/src/include -I/home/ss/MPRPC/example -g -o CMakeFiles/provider.dir/__/friend.pb.cc.o -c /home/ss/MPRPC/example/friend.pb.cc",
+  "file": "/home/ss/MPRPC/example/friend.pb.cc",
+  "output": "example/callee/CMakeFiles/provider.dir/__/friend.pb.cc.o"
+},
+{
+  "directory": "/home/ss/MPRPC/build/example/caller",
+  "command": "/usr/bin/c++  -I/home/ss/MPRPC/src/include -I/home/ss/MPRPC/example -g -o CMakeFiles/consumer.dir/callfriendservice.cc.o -c /home/ss/MPRPC/example/caller/callfriendservice.cc",
+  "file": "/home/ss/MPRPC/example/caller/callfriendservice.cc",
+  "output": "example/caller/CMakeFiles/consumer.dir/callfriendservice.cc.o"
+},
+{
+  "directory": "/home/ss/MPRPC/build/example/caller",
+  "command": "/usr/bin/c++  -I/home/ss/MPRPC/src/include -I/home/ss/MPRPC/example -g -o CMakeFiles/consumer.dir/__/friend.pb.cc.o -c /home/ss/MPRPC/example/friend.pb.cc",
+  "file": "/home/ss/MPRPC/example/friend.pb.cc",
+  "output": "example/caller/CMakeFiles/consumer.dir/__/friend.pb.cc.o"
+}
+]

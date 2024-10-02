@@ -1,0 +1,2 @@
+13:5:4 => first log message
+13:5:4 => /home/ss/MPRPC/example/callee/friendservice.cc:main:45
