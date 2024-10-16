@@ -11,6 +11,7 @@ set(EXECUTABLE_OUTPUT_PATH ${PROJECT_SOURCE_DIR}/bin)
 set(LIBRARY_OUTPUT_PATH ${PROJECT_SOURCE_DIR}/lib)
 
 # 设置编译时头文件的搜索路径，指定 src 和 example 目录
+include_directories(${PROJECT_SOURCE_DIR}/src/)
 include_directories(${PROJECT_SOURCE_DIR}/src/include)
 include_directories(${PROJECT_SOURCE_DIR}/example)
 

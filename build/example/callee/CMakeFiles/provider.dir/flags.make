@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/ss/MPRPC/src/include -I/home/ss/MPRPC/example
+CXX_INCLUDES = -I/home/ss/MPRPC/src -I/home/ss/MPRPC/src/include -I/home/ss/MPRPC/example
 
 CXX_FLAGS = -g
 

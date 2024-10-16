@@ -353,4 +353,11 @@ src/CMakeFiles/mprpc.dir/rpcprovider.cc.o: \
  /usr/include/google/protobuf/map_type_handler.h \
  /home/ss/MPRPC/src/include/mprpccontroller.h \
  /home/ss/MPRPC/src/include/rpcheader.pb.h \
- /usr/include/google/protobuf/extension_set.h /usr/include/c++/13/cassert
+ /usr/include/google/protobuf/extension_set.h /usr/include/c++/13/cassert \
+ /home/ss/MPRPC/src/include/logger.h \
+ /home/ss/MPRPC/src/include/lockqueue.h /usr/include/c++/13/queue \
+ /usr/include/c++/13/deque /usr/include/c++/13/bits/stl_deque.h \
+ /usr/include/c++/13/bits/deque.tcc /usr/include/c++/13/bits/stl_queue.h \
+ /usr/include/c++/13/thread /usr/include/c++/13/bits/std_thread.h \
+ /usr/include/c++/13/bits/this_thread_sleep.h \
+ /usr/include/c++/13/condition_variable
